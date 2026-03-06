@@ -10,10 +10,6 @@ When triggered, the skill reads a compact principle reference and applies Strunk
 
 The revision workflow follows a specific order: **Sharpen** (add specificity) → **Cut** (remove filler) → **Activate** (use active voice, positive form) → **Structure** (paragraphs, parallel form, emphasis) → **Polish** (punctuation, word choice).
 
-Key editorial decisions baked in:
-- **Specificity beats conciseness.** Rule 12 outranks Rule 13. Never cut words that add specific meaning in the name of brevity.
-- **Em dashes are flagged.** Rule 5 is updated to "Do not join independent clauses by a comma *or an em dash*." LLMs overuse em dashes; this skill treats them as a writing tell to correct.
-
 ## Install
 
 Copy the skill folder into your Claude Code skills directory:
